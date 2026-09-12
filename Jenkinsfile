@@ -1,3 +1,4 @@
+// updated for auto-trigger test
 pipeline {
     agent any
     stages {
