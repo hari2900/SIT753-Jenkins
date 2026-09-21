@@ -1,4 +1,3 @@
-// testing auto 
 pipeline {
     agent any
     stages {
