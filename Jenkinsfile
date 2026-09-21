@@ -1,4 +1,4 @@
-// testing auto trigger
+// testing auto 
 pipeline {
     agent any
     stages {
