@@ -1,3 +1,4 @@
+//auto trigger
 pipeline {
     agent any
     stages {
